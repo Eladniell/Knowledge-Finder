@@ -1,0 +1,5 @@
+{
+  "name": "Knowledge Finder",
+  "description": "A smart knowledge management portal for organizations to centralize, organize, and make accessible all internal knowledge. It features admin controls for content management and a user-friendly interface for browsing, searching, and filtering articles, enhanced with AI-powered analytics for tracking popular topics.",
+  "requestFramePermissions": []
+}
